@@ -1,0 +1,59 @@
+@import '~pretty-checkbox/src/pretty-checkbox.scss';
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.chat-tab-head {
+    background-color: $blabit-bg-dark;
+    font-size: 14px;
+    border-radius: 0px;
+    border-top-left-radius: $tab-radius !important;
+    border-top-right-radius: $tab-radius !important;
+    margin: 0px 2px;
+
+}
+.chat-tab-head-active {
+    background-color: $blabit-bg-light;
+    font-size: 17px;
+    border-radius: 0px;
+    border-top-left-radius: $tab-radius !important;
+    border-top-right-radius: $tab-radius !important;
+    margin: 0px 2px;
+}
+
+.blabit-light-bg {
+    background-color: $blabit-bg-light;
+}
+
+.blabit-border {
+    border-color: $blabit-bg-light;
+	border-style: solid;
+    border-width: 2px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}

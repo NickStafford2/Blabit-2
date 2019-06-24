@@ -7,7 +7,7 @@
 <p>Blabit is a simple chatroom simmilar to the YouTube chat. It also includes analytics about the chat content, polls, graphs about data, ect.</p>
 
 
-<h3>Links to my code</h3>
+<h3>Links to important code I wrote</h3>
 
 <ul>
     <li><a href="/routes/web.php">Routes</a></li>

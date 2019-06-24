@@ -10,6 +10,11 @@
 <h3>Links to important code I wrote</h3>
 
 <ul>
+    <li><a href="/app/Http/Controllers">Controllers</a></li>
+    <li><a href="/database/factories">Factories</a></li>
+    <li><a href="/database/migrations">Migrations</a></li>
+    <li><a href="/app">Models</a></li>
     <li><a href="/routes/web.php">Routes</a></li>
+    <li><a href="/database/seeds">Seeds (for database)</a></li>
     <li><a href="/resources/assets/js/components">Vue Components</a></li>
 </ul>
